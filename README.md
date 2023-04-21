@@ -1,4 +1,5 @@
 # Dockerizing DRF Cinema
+API for managing cinema
 
 
 ### Installing using GIThub
@@ -26,13 +27,11 @@ DOCKER should be already installed
 - get access token: /api/user/token/
 
 ### Some project Features
-JWT authenticated
-Admin panel /admin/
-Documentation is located at /api/doc/swagger/
-Managing orders and tickets
-Creating movies with genres, actors
-Creating cinema halls
-Adding movie sessions
-Filtering movies and movie sessions
-About
-Project (API) for managing cinema
+- JWT authenticated
+- Admin panel /admin/
+- Documentation is located at /api/doc/swagger/
+- Managing orders and tickets
+- Creating movies with genres, actors
+- Creating cinema halls
+- Adding movie sessions
+- Filtering movies and movie sessions
